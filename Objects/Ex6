@@ -1,0 +1,22 @@
+"foo" 
+3.1415
+[ 'a', 'b', 'c' ]
+false
+foo
+function bar() { return "bar"; }
+undefined
+{ a: 1, b: 2 }
+ 
+ primitve: 
+ "foo"
+ 3.1415
+ false 
+ undefined
+
+ Objects
+ [ 'a', 'b', 'c' ]
+function bar() { return "bar"; }
+{ a: 1, b: 2 }
+
+Neither:
+foo - This is an identifier so doesn't count as eitehr

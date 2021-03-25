@@ -1,0 +1,8 @@
+console.log('5' + 10);
+
+this prints out 510 because javascript changes 10 from a number
+to a string then interpolates the two making 510 instead.
+
+Better way to phrase it:
+Every + expression that has a string operand produces a string.
+Number 10 gets coerced into a string then concatenated to the string '5'

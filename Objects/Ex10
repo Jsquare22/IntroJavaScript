@@ -1,0 +1,9 @@
+[1, 2, ["a", ["b", false]], null, {}]
+
+1,2,false,null, "a", "b" are primitive
+
+objects
+{} 
+[1, 2, ["a", ["b", false]], null, {}]
+["a", ["b", false]]
+["b", false]

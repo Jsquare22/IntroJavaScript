@@ -1,0 +1,6 @@
+1: string
+2: boolean
+3: number
+4: number
+5: undefined
+6: Object

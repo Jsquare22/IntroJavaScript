@@ -1,0 +1,6 @@
+What is exception handling and what problem does it solve?
+
+Sometimes code will throw out exceptions and you can either catch it
+or you can have throw an exception under certain cirumstances
+
+This helps deal with problems that could lead to huge bugs
